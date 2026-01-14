@@ -185,7 +185,7 @@ const Hero = ({ theme }) => {
               <div className="flex items-center gap-2">
                 <motion.a
                   variants={ChildVariants}
-                  href="/SudhagarM_Resume.pdf"
+                  href="/Sentamizhselvan S-Resume.pdf"
                   target="_blank"
                   download
                   className={`rounded shadow-xl p-4 lg:px-10 font-extrabold text-[12px]  mb-10 ${

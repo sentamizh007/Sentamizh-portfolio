@@ -187,14 +187,14 @@ const Contact = ({ theme }) => {
               <VscGithubInverted className="hover:text-gray-800" />
             </a>
             <a
-              href="https://www.instagram.com/sudhagar_msr/"
+              href="https://www.instagram.com/until_then_mst?igsh=MTBmc2tmZDN2M2R0bg==."
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaInstagram className="hover:text-pink-500" />
             </a>
             <a
-              href="https://www.instagram.com/until_then_mst?igsh=MTBmc2tmZDN2M2R0bg==."
+              href=" https://wa.me/919786723862"
               target="_blank"
               rel="noopener noreferrer"
             >
